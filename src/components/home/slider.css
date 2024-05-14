@@ -1,0 +1,6 @@
+.slider-heading .hello{
+    /* position: absolute; */
+    background-color: aqua;
+    z-index: 10;
+    /* margin-top: -40px; */
+}
